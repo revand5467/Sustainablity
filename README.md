@@ -1,4 +1,5 @@
-# group2
+# Smart Drip
+
 
 A new Flutter project.
 
