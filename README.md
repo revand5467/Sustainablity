@@ -1,6 +1,7 @@
 # Smart Drip
 
-
+Sustainable Engineering Exhibition Project on creating a smart irrigation system.
+ 
 A new Flutter project.
 
 ## Getting Started
